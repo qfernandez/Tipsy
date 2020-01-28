@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         
         view.endEditing(true)
         
+        print("Hello World")
+        
     }
     
     @IBAction func calculateTip(_ sender: Any) {
